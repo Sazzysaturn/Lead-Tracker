@@ -1,0 +1,2 @@
+<h1> Lead Tracker: To Save All your time managing all those URLs with the help of an extension </h1>
+This a simple JavaScript based chrome extension. It can save the link of the current tab with just a click of a button, How convient isn't it?
